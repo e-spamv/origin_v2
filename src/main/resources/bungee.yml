@@ -1,0 +1,5 @@
+name: ${compile.name}
+version: ${version}
+author: ${author}
+
+main: ${mainClass.proxy}
